@@ -206,15 +206,15 @@ span{
 @keyframes words{
     0%,
     20%{
-        content: "STEM ENGINEER OF FUTURE"
+        content: "a STEM ENGINEER OF THE FUTURE"
     }
     21%,
     40%{
-        content: "ACSAI student"
+        content: "an ACSAI student"
     }
     41%,
     60%{
-        content: "Programmer";
+        content: "a Programmer";
     }
     61%,
     80%{
